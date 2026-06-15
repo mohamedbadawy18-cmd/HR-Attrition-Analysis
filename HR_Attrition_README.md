@@ -1,9 +1,9 @@
-# 👥 HR Employee Attrition Analysis — IBM Dataset
+#  HR Employee Attrition Analysis — IBM Dataset
 > Identifying the root causes behind a 16.12% employee attrition rate across 1,470 employees
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 High employee attrition is one of the most costly HR challenges — replacing an employee can cost 50–200% of their annual salary. This project analyzes 1,470 IBM employees to answer:
 
@@ -26,7 +26,7 @@ High employee attrition is one of the most costly HR challenges — replacing an
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** IBM HR Analytics Employee Attrition & Performance — Kaggle
 - **Size:** 1,470 employees · 35 features
@@ -39,7 +39,7 @@ High employee attrition is one of the most costly HR challenges — replacing an
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 ### Phase 1 — Data Cleaning (Excel + Python)
 - Removed 3 zero-variance columns: `EmployeeCount`, `Over18`, `StandardHours`
@@ -56,7 +56,7 @@ High employee attrition is one of the most costly HR challenges — replacing an
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 | # | Finding | Data |
 |---|---|---|
@@ -71,7 +71,7 @@ High employee attrition is one of the most costly HR challenges — replacing an
 
 ---
 
-## 📈 Dashboard Pages
+##  Dashboard Pages
 
 ### Page 1 — Executive Overview
 KPI cards (Attrition Rate, Total Employees, Churned, Avg Income Churned) + Attrition by IncomeBand + Attrition by OverTime + Attrition by Department + Overall Donut Chart
@@ -88,7 +88,7 @@ Executive summary of top 3 recommendations with supporting KPIs and ranked actio
 
 ---
 
-## ✅ Retention Recommendations
+##  Retention Recommendations
 
 ### 1. 💰 Review Sales Representative Compensation
 With a 39.8% attrition rate, Sales Reps are leaving at more than double the company average. A compensation review and clearer commission structure should be the #1 priority.
@@ -101,7 +101,7 @@ Employees working overtime are 3x more likely to leave (30.5% vs 10.4%). Impleme
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── README.md                          ← You are here
@@ -113,7 +113,7 @@ Employees working overtime are 3x more likely to leave (30.5% vs 10.4%). Impleme
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Python** (pandas, matplotlib, seaborn) — Data cleaning, EDA, visualizations
 - **Power BI** — 4-page interactive dashboard with slicers and KPI cards
@@ -121,8 +121,8 @@ Employees working overtime are 3x more likely to leave (30.5% vs 10.4%). Impleme
 
 ---
 
-## 👤 About
+##  About
 
 Portfolio project demonstrating end-to-end HR analytics — from raw data cleaning through to executive-ready dashboard and actionable business recommendations.
 
-📧 [Your Email] | 💼 [Your LinkedIn URL] | 🐙 [Your GitHub URL]
+📧 [mohamedbadawisayed@gmail.com] | 💼 [https://www.linkedin.com/in/mohamed-badawi28/] | [https://github.com/mohamedbadawy18-cmd]
